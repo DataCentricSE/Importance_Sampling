@@ -7,4 +7,10 @@ The contributions of the paper include an expert knowledge-based parameter estim
 The applicability of the proposed method is introduced through a case study of a Hungarian operating waste separation system. 
 The results verify that the assessments of experts can be efficiently integrated into system models, and the consistency of them can be evaluated.
 
+
+   <div align="center">
+  <img src="https://github.com/DataCentricSE/Importance_Sampling/blob/main/fig17g.jpg" alt="Figure_dt (3)" style="width: 35vw; min-width: 330px;">
+
+
+
 Keywords: expert knowledge; parameter estimation; waste separation system; importance sampling; Monte Carlo simulation 
